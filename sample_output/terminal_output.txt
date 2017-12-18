@@ -1,0 +1,2363 @@
+Epoch: 13  Training Step: 4792319
+Training Set: Loss: 1.198  Accuracy: 0.630
+Evaluation Set (53319 chars): Loss: 1.555  Accuracy: 0.553
+
+R
+                                                             Exit
+  PANDARUS. Ay, sir, the soldier that hath a fool shall be so sore an
+    strange of the court of the soul of the sons of the strange of  
+    the sound of the strange of the company. The most assirust that
+    shall be a son of the strengthen of the son of the soul of the  
+    soul of the search of the state.
+  PANDARUS. What a proud sorrow is the strength of the supply of the
+    streeks? What say you to the sea?
+  PANDARUS. What say you to the streets?
+  PANDARUS. What says the sentence?
+  PANDARUS. What say you to the son that he shall see the rest?
+  PARIS. Why, then the seas and the service of the strange and the
+    sinceron of the streets of the soul of the seas and the sound
+    of the state of the strange of the sea and the strendthers of the
+    strange of the sun of the state of the strength of the stranger
+    of the sea-and the streets of the strength of the strength
+    that they shall see the court of the subjects. The son of the
+    shame is the stranger of the secret and the son of the son of  
+    the fortune of the strunkengrichers of the strength of the story
+    of the seat of the true of the
+
+Epoch: 13  Training Step: 4833279
+Training Set: Loss: 1.135  Accuracy: 0.647
+Evaluation Set (53319 chars): Loss: 1.560  Accuracy: 0.555
+
+ords, and A trumpets
+    Trouble the strength of the strait of the seas
+    To the strange stoces of the stranger of them.
+    I will not see the stranger of the struck.
+    The strange of the substance of this take
+    The strength of the strange stratage of the sons
+    Which the sure strange and true thing stands to bear
+    To see the strength of the sun to the senators.
+    What shall I be a promis'd and the strange?
+    The strange of the contemplation of the state
+    Will strike the strange and true than the true stranger
+    Of the suppose of the sun of the sea,
+    And the strange strength of the world is there.
+    I will be so much of the streets of theme
+    That they are there and the property of the common time
+    That the sound strength of the destiny                                        Exit
+  PANDARUS. What say you to the man?
+  TROILUS. What say you?
+  PATROCLUS. What shall you see the world?
+    The season of the strength of the strength of the state
+    That the sun stays to the strange of the sease
+    That the compassion of the season stands
+    The stranger of the strait of the true strength
+    That the sunstain of the second man and the  
+    The seas o
+
+Epoch: 13  Training Step: 4874239
+Training Set: Loss: 1.137  Accuracy: 0.652
+Evaluation Set (53319 chars): Loss: 1.586  Accuracy: 0.555
+
+ and TITUS
+
+                            Enter AAROMEN
+
+  TROILUS. What should you see the court?
+  TROILUS. What say you to the sons?
+  THERSITES. What shall I be the state of the strength of the street?
+                                                                   Exit
+  TROILUS. Why, there is not a street that they shall see
+    The stranger of the state of the son of thee.
+    The son of Ajax is a stranger of them.
+    The seas are sorrow to the sea of truth.
+    There's nothing but a strait that the devils
+    Will stand to the son of the strange of them.
+    The world is sorrow to the state of thee.
+    The state of the strange strain of the strange strain
+    That shall be so for the such thing of thee.
+    There is a strange of the world's state of Rome.
+    The stroke of the soul of the world is shallow.
+    The secret counterfeited souls of thee
+    The strange of this that were a man and thee.
+    The state is there and the best fair and sorrow.
+    The seas of the shall be the strong and strange
+    That who shall be a man of the world to thee.
+    The wind and the devil of the proceeds of them
+    Did straight and stand to the sons of the start,
+    And the device 
+
+Epoch: 13  Training Step: 4915199
+Training Set: Loss: 1.163  Accuracy: 0.637
+Evaluation Set (53319 chars): Loss: 1.592  Accuracy: 0.555
+
+ I a
+    half and the strain of the senseless than a state of the seas of
+    the season. I will not be a sort of the street.
+  OLIVIA. I will not see thee to be standing to thee.
+    I will not see thee to the state of the sea of the strange of the
+    sealed particular of the world and the state of the state.
+  OLIVIA. I will not see the seas and the presentless man.
+    I will not see thee that I will be so.
+    I will not see the strent of the sea of thee.
+    The lady is the stranger of the state
+    That the strange soul of the strange stands
+    That shall be so and stroke of the second heart
+    Of the strange strange of the strange sears of the strains
+    Of the seas of the sea-companion there.
+    The sea of the strange soul of this desire,
+    The strong of the devender of the sea,
+    And the strange state of the content of men,
+    And the strange strangers of the strange of them.
+    The state of the stand of the state of them,
+    The standing of the strange of the world shall be so.
+    I will not see the state of the state of the song.
+    I will not see thee the shame of the state
+    That thou art so much as the stranger of the death  
+    That I have sooned the
+
+Epoch: 13  Training Step: 4956159
+Training Set: Loss: 1.156  Accuracy: 0.645
+Evaluation Set (53319 chars): Loss: 1.578  Accuracy: 0.559
+
+EnIake
+sn      the story of the streets
+                                                             Exit
+  AGUECHEEK. I will not be a strange to the strange of the street
+    of the state of the sense. I will not be so strange to be a sorrow
+    and so many a strength of the sound of the stranger of the
+    state of the sea-comes of the seas and the street of the house
+    that the strain of the strange should be the stranger of the
+    strong of the sons of the state. I am not with the street of
+    the service.
+  SIR TOBY. What should I do?
+  SIR TOBY. Ay, and the man will be the sin of the season.
+  SIRVTOL. I will not be the subject of the strength.
+    I will not see the time of the despite.
+    I will not see thee better than the state.
+    The sea and the desire of her that shows them to the world.
+    I will not see thee there.
+  SIR TOBY. And then I will not be a strong and sound of the soul
+    that we are all bestows the sea-bearing of the state of the
+    street.
+  AGUECHEEK. What shall I be so sorry that he is so long?
+  SIR TOBY. What is the man that shall be the soul? I will not be the
+    thing of the streets that he was a son of the courtesy. I have
+    been a ser
+
+Epoch: 13  Training Step: 4997119
+Training Set: Loss: 1.108  Accuracy: 0.655
+Evaluation Set (53319 chars): Loss: 1.590  Accuracy: 0.556
+
+]
+                                                        Exit
+  AGUECHEEK. I will not be a good word to the good and a proceed
+    man.                                                  Exit
+  CLOWN. I will not be a strange to the strange than the son of the
+    true son of the strange of the world that the strength of the
+    court of the state of the servant of the state.
+  SIR TOBY. I am a brother of the state, and therefore the fatter of
+    the song of the soul of the sous of the soul of the trumpets
+    and the strange of the state of the thing of the world in the
+    throne of the sense. I will not be the man and the son of the
+    stroke of the sight. I will not be a son of the strange of the
+    soul of the man that I am a man that I will not be a son of the
+    country. I will not be the stranger of the more.
+  CLOWN. A strange one of the sea and the sour of the song, and the
+    state of the servant of the sword, and the fool shall be an arm
+    to be a man than the sword of the state of the state. I will be
+    the sour of the country of the strange of the streets.
+  FABIAN. I will not be so fairer to be the song of my lord.
+                                             
+
+Epoch: 13  Training Step: 5038079
+Training Set: Loss: 1.123  Accuracy: 0.648
+Evaluation Set (53319 chars): Loss: 1.587  Accuracy: 0.555
+
+, hatheeR that
+    he should be so such a strange that the state is a man than the
+    son of the store.
+  VALENTINE. What says the lord?
+  SILVIA. Why, then, sir, the son of the son of the servants are a
+    soldier.
+  VALENTINE. What then I will not see the stars of the sons of my
+    son.
+  VALENTINE. What say you to the heavens?
+  SPEED. What is the man that will be a stranger to the world?
+  SPEED. Why, there is no more than the sea is a street.
+  SPEED. Why, there's a service to the story of the stranger.
+  SPEED. Why, the song of the state is the son of the song of the
+    state of the state.
+  LAUNCE. I will not see the see to the son of the season.
+  SPEED. I am a man that hath a son to the courtesy.
+  SPEED. I would not be so much as the man is a soul of the son.
+  JULIA. What shall we see the man and the street?
+  SPEED. Why, the man is there a man that I had a strain to see thee
+    and the strength of the state of the state.
+  SPEED. What say you to the love?
+  SPEED. I will not be a speedy son.
+  VALENTINE. Why, then I would the sea and the strength of the sea
+    that were the world the world and the sound of the son of the
+    strength of the sea and the sea and the
+
+Epoch: 13  Training Step: 5079039
+Training Set: Loss: 1.090  Accuracy: 0.657
+Evaluation Set (53319 chars): Loss: 1.589  Accuracy: 0.557
+
+i
+e  
+
+     now the court of the world.
+  SPEED. 'Item.
+  VALENTINE. Why, there it is not that I will not stay.
+  DUKE. What shall I see the company to see them?
+    What say you to the heart of heaven and her?
+    What shall I see the world to see the world
+    Where they are so alarum.  
+  LAUNCE. Why then the less now is a fool that I have seen thee to
+    the string of the sea-man of the constant of the state of the
+    complose of the sould and the proud and the state of the street
+    of the strange of the searching of the strength of the world
+    shall be the fair and strong of the state of the state.
+  SPEED. 'I shall be so for the son.
+  SPEED. Why, then the seas are a man of the soul of the sound of
+    the strange of the manner.
+  LAUNCE. Why, then the fair state will be a man as the strength
+    of the man that I have seen the sense.
+  SPEED. 'I will not be so well. I have seen thee a strength of the
+    man and the stranger of the search of the state of the state
+    and the strange state of the state of the souldon of the seas
+    and the sea-shore of the sea.
+  SPEED. 'Tis a son of the man and the sea of the stranger of the
+    man.
+  SPEED. The word is the son of t
+
+Epoch: 13  Training Step: 5119999
+Training Set: Loss: 1.108  Accuracy: 0.654
+Evaluation Set (53319 chars): Loss: 1.540  Accuracy: 0.563
+
+an
+                                                             Exit
+  PROTEUS. What shall I say the word of this that shall be so?
+    The seas and the sons of the sense of state
+    That shall be so that thou hast seen my love
+    That they have seen thee to the service that
+    We have a strange out of my love and then.
+    The man is the man that I have a state
+    That he is so that I have seen thee sour.
+    I have a father to the strendth of thee,
+    That I have seen thee then the strength of heaven
+    That then the sea is so before the state
+    That hath a man to see thee to the seas
+    That I have sent thee to the sea-command,
+    And then I see thee so much worthy so.
+    There is no man as the such shame as she
+    Shall see thee stand as they are sent to see
+    The sense of state and she is so.                Exeunt
+
+
+
+
+SCENE II.
+A street of the streets
+
+Enter SIRVTHLA STABULIUS, SILVIA, and PROTEUS
+
+  DUKE. What says the matter to the manner of my love?
+    I have so much that shall be so to see.
+    I will not see the world in the sea offend me.
+    What says the maid?
+  PANTHINO. Why, that's the manners.  
+  SEBASTIAN. What should I think that I have seen thee s
+
+Epoch: 13  Training Step: 5160959
+Training Set: Loss: 1.182  Accuracy: 0.628
+Evaluation Set (53319 chars): Loss: 1.590  Accuracy: 0.556
+
+
+                                                      Exeunt
+
+
+
+
+ACT V. SCENE I.
+Ven on. The season of the park
+
+Enter PALIIN and PANDARUS
+
+  PROTEUS. Ay, my good lord, I will not see thee string.
+    I will not see thee to the streets of men
+    That the sons of the seas of the proportion
+    Is there a strange and sent to me to see
+    The seas and some of them. I will not see
+    The state of the son of the second man
+    That thou hast stay'd the stands of this a proud
+    That hath a stocking the sense of the stare
+    That I have seen the world is so much sight
+    That I do see the sea of the mandy of them.
+    I would not think the state is the man to see thee.
+    I have no more to be a standing for thee.
+    The sealer of the sea of the sorrow of him
+    Is the so for the son of the content of them.
+    If thou dost see thee then, I will not see
+    The strange of thee that have been so for thee.
+    I will be seen to see thee so to see.
+    I will not see him so.  
+  PAULINA. I will not see thee.
+    I have been the soul of the senators.
+    I will not see your sheep, and there the state
+    Hath seen the stoppers of the state of the
+    That they shall see the season o
+
+Epoch: 13  Training Step: 5201919
+Training Set: Loss: 1.194  Accuracy: 0.630
+Evaluation Set (53319 chars): Loss: 1.589  Accuracy: 0.555
+
+as and the standing of the seas
+    That the present of the state of the sea
+    To be a strength to the consembling thought
+    Of the shepherd that hath been the season of the streets
+    That the stones of the sea of the state of the soul
+    Of the sheep of the sea of this the state
+    Of the proceeding of the state of the strength,
+    And then the state of the shape of the strange
+    Of the sure song of the soul of the state
+    That the company of the streets of men
+    To the shape of the seas and the she shall be so
+    That shall be so strange. I will see thee both,
+    And there it is and the thought of the senders
+    That the seas shall be so to the commonities
+    Of this and she hath seen the state of thee.
+    The sea of the son of the soul of thee,
+    The son of the song of the commandest
+    That the sheep of the seas and states of things
+    That the silken since of the soul of the state
+    Of the consent of this and something of thee.
+    The son of my best sons, the senators,
+    The state of the companion of the starn,
+    The seas and the success of the son that shall be the
+    That the seas of the seas and the so present  
+    That the soul that I have 
+
+Epoch: 13  Training Step: 5242879
+Training Set: Loss: 1.156  Accuracy: 0.636
+Evaluation Set (53319 chars): Loss: 1.633  Accuracy: 0.555
+
+L  
+                                                     Exeunt
+
+
+
+
+SCENE III.
+The DUKE'S palace
+
+Enter PORTIA, SILVIUS, and PATROCLUS
+
+  CAMILLO. I am not so much more to be a strength
+    That the promise of the sea-stard of the state
+    The sea and soul and sound of the wind arms
+    That the son of the stars of the compassion
+    That the secret that hath been to see the sea,
+    That the secret of the state of the son of his sides
+    That the state of the sea of them and theme
+    That shall be seen to see the sight of thine
+    That the son of the state will be a strain
+    To th' strange offence. The fair and sour of this
+    That the shape of the state of this another
+    Will be the state of the conceit of this.
+    The state of the best state of the sons of them,
+    The stand that shall be stand and shall be sorry
+    To see the seas and the most state of them.
+    The soul of this in this the matter shall
+    The shame of this behold the state of theme
+    To be a stranger to the stranger of him.
+    I will not see thee so.                                 Exit
+
+
+
+
+SCENE III.
+A street
+
+Enter LEONTES, and attending at the Capiton
+
+  CAMILLO. I have the senators of the s
+
+Epoch: 13  Training Step: 5283839
+Training Set: Loss: 1.228  Accuracy: 0.615
+Evaluation Set (53319 chars): Loss: 1.340  Accuracy: 0.593
+
+And
+                                                            Exeunt
+
+
+
+
+
+
+
+
+ACT V. SCENE I.
+A sure of the state
+
+Enter PAULINA, with the SERVANT and PAULINA
+
+  PANTHINO. I have seen thee to be the best of thee
+    And the son of the seas and the some state
+  Of the dear service of the sea of them
+  That the sense of the sealance of the sea
+  The stars and the sententain of the shame,
+  The seas are so betwier the shame of state
+  The state of the state of the seeping of the
+  The seas of the state of the shame of the sea-strange stops,
+  If they are standing to the state of state,
+  The seas are the strange of the seas and states,
+  And the sheep of the state of this the stars
+    The state of the son of the strentted song
+    That will be so to see the state of heart,
+  The sea of the secret of the state of them,
+  That the server of the sense of heart been
+  To see the sea-shepherd of the seals of his
+    That the secret of the standing of the streets
+  And seen to seen the sees that the world shall be so,
+  And the sheep of the state of the court of her hand
+  That the she have been stand and she is so many
+  That the shame shall be a father of the sea,
+  Which she shall see 
+
+Epoch: 14  Training Step: 40959
+Training Set: Loss: 1.280  Accuracy: 0.638
+Evaluation Set (53319 chars): Loss: 1.262  Accuracy: 0.610
+
+e the sea, and the strangest thence in
+                                                  Exit
+
+
+
+
+Scene II.
+The sea-count the choice of the state
+
+Enter PAULINA, SILIUS, and attendants
+
+  Paris. The seas and the stard of the state of thee,
+  And then the seas and the strength of the state,
+  That the sense of the strength of the sweet street,
+  The state is there and the sound of the street,
+  The service that the sea of them are straight,
+  And thence it is the seas of this the state,
+  The sea and the strange story of the street,
+  And that the sea of this the street is strain,
+  That the secure shall be a stranger then,
+  That the best stand the state of the strength state,
+  The sea of the contented sons that stand on,
+  And then the state of the most sense will stand,
+  The strange of this the state of the seas there,
+  The standing of the stranger of thy state,
+  The state of this the senator is there,
+  That they are so and the best strange of thee,
+  That thou art thus to the conceit of this,
+  That the contract of this the state is there,
+  That the sweet sight that the world shall be so,
+  The servant of the stormed state of thee,
+  And then the strength of the sheep is t
+
+Epoch: 14  Training Step: 81919
+Training Set: Loss: 1.188  Accuracy: 0.631
+Evaluation Set (53319 chars): Loss: 1.361  Accuracy: 0.591
+
+one  
+    With the servant of the sea, and the strength,
+    That the sediance of the strange of thine,
+    That the sun seem'd to see the world that shall be so
+    As the statue of the son of the world is the stranger of the
+    courtest of the world. I would the great shape is to be so strange,
+    and there the sea of the state of the soul of the sea of his soul
+    will be a service to the King. The sea is so much to be a most
+    sorrow that the sun that the fair stand is to her son and the
+    son of the senses of the sea of the servant of the strength
+    of the world to see thee.
+  COUNTESS. I will not see thee that I had a stone.
+    The secret shall be so much to the sea,
+    That the such stature of the state of thee,
+    That the sun strange of thine is straight to see thee,
+    And there is the poor servant of the count.
+    The strain of the conceit of this the streets,
+    Which they are so behavish'd. There is no more
+    Of the consents of the soul of the sense,
+    And there the service is the stars of thee.
+                                                             Exit
+
+
+
+
+
+
+
+
+ACT I. SCENE 1.
+
+                                                Exit
+
+            
+
+Epoch: 14  Training Step: 122879
+Training Set: Loss: 1.105  Accuracy: 0.652
+Evaluation Set (53319 chars): Loss: 1.404  Accuracy: 0.579
+
+ively and the King
+    That was a man of the content of then,
+    And then the state of this desire is there.
+                                                           Exit
+    I would not say I am not so much shame
+    To see thee to the sun of the consent.
+    I have no more than the proud sing of this,
+    And therefore then I saw thee that I have
+    The sense of things and the consenting souls
+    Of the soldier of the state. The sun
+    Is not a state of the son of the state,
+    And therefore show the strange of the dead man,
+    And then the state of the constant things
+    Which I have seen the time of this the servant
+    That the she shall be so. I have the shame
+    That the subject of his son is thunder.
+    I am not so, so the King shall not be a good word.
+  COUNTESS. What say you to the man that hast the world
+    To think that I have seen thee to the present
+    That they are so that the stars of the state
+    Which I have seen the streams. The count of them
+    I have a solemn tongue on the sea,
+    That he is the son of the state of this.
+    The son of the sea cannot be a man,
+    And the sun to the breath of the strange streets
+    Of the strange seas and the 
+
+Epoch: 14  Training Step: 163839
+Training Set: Loss: 1.132  Accuracy: 0.648
+Evaluation Set (53319 chars): Loss: 1.450  Accuracy: 0.572
+
+
+    The state of the courtesy of the streets of his hours
+    That hath a stare to the world that he was the words of the
+    constant of the sea-counted proper that I have seen the son
+    of the song of the court of the courtify of the son of the court
+    of the seal of the state of the court of the company of the
+    companion of the world.  [Aside]  What shall I see the King?
+  FIRST SOLDIER. I have seen thee to the King to the King.
+  FIRST SOLDIER. I will be so much as the man of the court.
+  FIRST SOLEM. I have seen the son of the princess of the sound of
+    the commonity of the sea of the sealer of the court of the  
+    state of the streets of the streets of the state of the streets
+    of the streets of the proud of the strange of the strength of
+    the state.                                       Exeunt
+
+
+
+
+ACT III. SCENE I.
+Sheep. The palace of Exement
+
+Enter PAROLLES, and SERVANTS, and PAROLLES
+
+  COUNTESS. I am a good and such a son of the son of the son of the
+    sound of the seas of the world and the servant of the strange
+    or the such an officer of the seal of the sound of the strake
+    of the servant of the soul of the sound of the court of the
+    son of
+
+Epoch: 14  Training Step: 204799
+Training Set: Loss: 1.125  Accuracy: 0.649
+Evaluation Set (53319 chars): Loss: 1.423  Accuracy: 0.575
+
+OW SECOND
+                                                            Exeunt
+
+
+
+
+ACT IV. SCENE I.
+Alax and SinVens.
+
+Enter CAMALLORS and ARIEL
+
+  ARCHBISHOP. I will not see him that I have a state of the courtest
+    of the sense of the court of the world. The son of the constant of
+    the dead contention of the procession of the court of the
+    strength of the court of the state.
+  SECOND LORD. What say you to the King?
+  PAROLLES. What shall I say the son of the self-and since I have so  
+    the servant of the strencther of the street of the streets to
+    hear the world and the world.
+  COUNTESS. I will see the world to hear the truth of the sears, and
+    the son of the soul of the son of the state of the sea of the son
+    of the state of the soul of the streets of the sorrow of the state
+    of the streets of the standing of the court of the seas of the soldier
+    of the strength of the son of the court of the court of the  
+    strength of the streets of the company.
+  COUNTESS. I would I have a strong and some of thee
+    That he is the poor strength of the suck of the court.
+    I will not see the strength of the strange fine.
+                                          
+
+Epoch: 14  Training Step: 245759
+Training Set: Loss: 1.150  Accuracy: 0.643
+Evaluation Set (53319 chars): Loss: 1.436  Accuracy: 0.571
+
+
+                                                    Exeunt
+
+
+
+
+SCENE III.
+A street.
+
+Enter PAROLLES, and                                          Exeunt
+
+
+
+
+SCENE II.
+Another part of the Capual
+
+Enter CLEONATRAS
+
+  CLEOPATRA. I will not see thee that I will not see
+    The sea of the sorrow.
+  CAESAR. I am so many soul
+    That the sweet side of the which the success
+    Is strange to th' state. The man is the part of the court.
+    The service of the strength of the world should be
+    The state of the state. The matter is the world
+    That the subject should be so delighted.
+    I shall not see the strange of this desire.
+    I will not see thee to the streets of my presence.
+    The season of the state of the streets are beauty
+    That the sense of the strength of the streets of time
+    That shall be seen to be. I have not so far here.
+    The strange of this and the man are not so far  
+    That the despire of the state of the streets
+    Are so desired to the counterfuits of her
+    That the strong state of the service of the streets
+    That stands the streeting of the sea, and then
+    The seader of the seas and the despising off
+    That the streets of the sea of heaven
+
+Epoch: 14  Training Step: 286719
+Training Set: Loss: 1.135  Accuracy: 0.651
+Evaluation Set (53319 chars): Loss: 1.448  Accuracy: 0.573
+
+s of Captol her hand
+                                                              Exit
+
+
+
+
+SCENE III.
+A bard of Alentook
+
+Enter CAMILLA, and ANTONY, with a SERVANT and ATTENDANTS
+
+  CAMILLO. And then the streets of Caesar have been stranger
+    That the sea of the sense. The soldier of the world
+    Shall be a state to the world the stand
+    Of the son of the heart. The comport hath
+    The servant of the state of the star to thee.
+    I have been so much to the soul of the streets
+    That the secure of the parting of the stars
+    The season of the seas and the part of his
+    And the secrets of the sea. The world is so,
+    And the present of the world hath seen
+    The streets of the world. The sea hath say the seas
+    That would not see the state of the consemblance
+    Of the stard of the state.
+  ANTONY. I have seen thee to the true and the streets
+    That the state of the sea shall have the sea
+    That the proper thousand of the son.
+                                                            Exeunt
+
+A
+
+                               SCENE VI.
+                                                     Exeunt
+
+ACT_3|SC_QUh.                                           Exeunt
+
+AC
+
+Epoch: 14  Training Step: 327679
+Training Set: Loss: 1.115  Accuracy: 0.656
+Evaluation Set (53319 chars): Loss: 1.466  Accuracy: 0.571
+
+]
+    The state of his and the world hath been
+    The sea of the manners. The strange of the strange
+    Will be the state of the best office.
+    The stars of the man that has not so short
+    That the sheeps of the state of the sun that shall
+    And the most state of the good man.                     Exeunt
+
+ACC_4 SCENE S.
+
+                                  ANTONY.
+                                                       Exit
+
+
+
+
+SCENE VI.
+A manner of the part
+
+Enter ANTONY and ANTONY
+
+  ANTONY. The stranger that hath seen to see the state
+    That have a strange and fortune of the state
+    That the shape of the streets of this desire
+    And the sun of the state. The stranger shall
+    The state thou shalt be seen the sea and the bear
+    That he is so betraid'd.
+  ANTONY. What shall I see the court?
+  ANTONY. I have a soldier to the street.
+  ANTONY. I have seet thee to her better than the state
+    That hath a son of the stars of the sea,
+    And therefore the soul the man hath been so many
+    That the preserver of the strength of heaven
+    And the precedent of the state.                         Exit
+                                                    Exit
+  CLEOPATRA. The 
+
+Epoch: 14  Training Step: 368639
+Training Set: Loss: 1.117  Accuracy: 0.652
+Evaluation Set (53319 chars): Loss: 1.462  Accuracy: 0.570
+
+                                    
+                                                                Exeunt
+
+ACT_3|SC_4
+                           SCENE II.
+                                                                Exeunt
+
+
+
+
+SCENE VII.
+And the season of the court
+
+                        
+          Enter a CAESAR and ANTONY
+
+  CLEOPATRA. What say you to the King?
+  CLEOPATRA. What shall I see the soldier that you should see the
+    shame of the start of the state of the world that they shall not
+    see the sea of the world that I have seen the common compleiser
+    of the world to make the soul of the streets of the world that
+    the strength of the company of the state of the state of the wind
+    of the streets and the strength of the state of the sea, and
+    the world should be so sharp as the man of the stars of the
+    son of the world that they are a man that I have seen the
+    shape of the state of the world in the strong son of the sea, a
+    man of the streets of the world. The son of the world is the sold
+    of the son of the sea- that the shame of the son of the search of
+    the soldier of the world that the soldiers of the streets of the
+    state of the se
+
+Epoch: 14  Training Step: 409599
+Training Set: Loss: 1.164  Accuracy: 0.646
+Evaluation Set (53319 chars): Loss: 1.459  Accuracy: 0.572
+
+es the strong offices
+    of the streets and the world between the world have been a
+    strange of the world. I have seen the son of the world to the
+    son of Antony, and the witth of the world will be the world to the
+    manner. I have not the son of the song of the world that I will
+    so much be the street of the wind of the sea-strong and the street
+    of the world that the sea of the sea of the statute of the star
+    of the world will be so fortune to be a man that I have seen the
+    start of the world to be the strange of the strength of the world
+    and the sea of the state of the state of the songet of the world
+    that I have seen the service of the sea of the sour of the season
+    that the sun that the world should be to be the son of the strange
+    thing that the seas are the state of the soldier of the world.
+                                                               Exit
+
+                                Enter CLEOPATRA
+
+                                  Enter a third
+                                                             Exeunt
+
+
+
+
+SCENE II.
+Another farther the palace
+
+Enter CLEOPATRA, CAESAR, and ANTONY
+
+                             Enter ANTONY
+
+
+Epoch: 14  Training Step: 450559
+Training Set: Loss: 1.250  Accuracy: 0.626
+Evaluation Set (53319 chars): Loss: 1.507  Accuracy: 0.563
+
+ of the world, the world of the
+                                                             Exit
+
+                                        Enture IRIS
+
+                                 EARTOULDUS.
+                                                          Exeunt
+
+
+
+
+SCENE II.
+The palace of the court
+
+Enter CLEOPATRA and AEARUS
+
+  CELIA. I will be so the state of the sorrow of the world.
+                                                             Exit
+
+
+
+
+SCENE III.
+Another part of the father of the part
+
+Enter CAESAR, and CAESAR, and the threat of the Captain
+
+    The more of thee the lady of the world
+    That the sun she is the more than the world
+    That the shall seem to be a man than the fortunes
+    That the rest of the strength of the world shall be the sound
+    of the world to see him the sea of the world that the world is
+    the manner of the world to see the world that he shall be so storm
+    at the season of the world that the man is a word of the world
+    hath seen to be a man to be the world that the world is a man
+    than the world that I have seen thee to be a man and the world
+    are to be the world and the man of the world with the winds of
+    the world.
+  
+
+Epoch: 14  Training Step: 491519
+Training Set: Loss: 1.199  Accuracy: 0.639
+Evaluation Set (53319 chars): Loss: 1.508  Accuracy: 0.565
+
+TUR  
+                                                                Exeunt
+
+
+
+
+SCENE III.
+The prison
+                                                       Exeunt 
+
+
+
+
+SCENE II.
+The sea;
+  And the strong of the sount of the strives of the world is a thought
+    than the world that the world is a man to be so much to be the  
+    sort of the sound that I will see the world to the common soul
+    of the world.
+  ORLANDO. I will be the more than the sore of the sound of the
+    court.
+  ROSALIND. I am not then to see the sea of the soul of the son of
+    the world that he is not a woman as the man is the world of  
+    the sore of the world.
+  ROSALIND. I will not see the world that I will not see the world
+    of the state of the world. I have seen the countries of the man
+    to be the many of the sound of the search of the sign of the sound
+    of the senser of the song of the world the state of the sond of
+    the court of the soul of the world that the share of the sea of the
+    sound of the state of the world is a man and the sorrow of the
+    soul of the world. I will not see the world the seas and the son
+    of the street of the world that hath been to see the sorrow of
+  
+
+Epoch: 14  Training Step: 532479
+Training Set: Loss: 1.305  Accuracy: 0.606
+Evaluation Set (53319 chars): Loss: 1.330  Accuracy: 0.595
+
+oA
+  Antony.
+  The son that the sister of the state
+  That shall be then to be a soul of the man.
+ANTIPHOLUS OF EPHESUS. I am so much as the man is the marriage of the world.
+AnTonio. The man is the man that the world is to be a man of the more.
+DROMIO OF EPHESUS. Why, the man is the servant of the state.
+  And the more than the stream of the strange state,
+  And the man was to be a sense of the world.
+  If thou dost not be the sound of the soul, the matter is the man to
+    the man of the mandow.
+  And the so much of the man of the world is that the world was a
+    constant that we shall be so more than the man in the store.
+ANTIPHOLUS OF EPHESUS. I am not the man and the man as the man would
+    be the man that hath the matter that they shall be saved to be
+    to be a man of the manner.
+DROMAO OF EPHESUS. I will not be so much as the world shall be a son
+    of the man as the soul of the would be the world that I will not
+    a strange of the sea of the sorrow of the world that the world
+    hath seen to see the world to the good man of the world to me.
+  The word of the marriage of the son of the world that the more of the
+    thing of the soul of the strength of the streets.
+ 
+
+Epoch: 14  Training Step: 573439
+Training Set: Loss: 1.202  Accuracy: 0.627
+Evaluation Set (53319 chars): Loss: 1.322  Accuracy: 0.596
+
+l
+    And since the world is so much of the street.
+ADRIANA. A shame that he is so much that I have
+  that shall be so much that the strength of men
+  That have been to me that have store the state
+  That with a man that hath a man that hath
+  And the some strange of the coundry of the strange of the streets
+    of men and the shame of my dear sister.
+  Andone, the wife of the man of the strings of his and offer to
+    be so man to be the man that hath been to be so foul as the  
+  or that have been a strange and the man of the world of the sea,
+  And then the show that will be so much stay'd
+  That that the strange of his are strange and false.
+  I will not see the soul of the constrict of the streets.
+  The man that will be so much brother thanks
+  And the mind to be sern'd to see the sun.
+  And therefore shall I see thee that the season
+  Do have the soul of the dear son of the world.
+  The strange of the share of the strange of the common hours
+  That the sun shall be seal to the soul that hath heard her bear
+    the shame of his and the sea-man and the sea of the manners of
+    the state of the state of the world that hath been the strong
+    of the strange countryment of the 
+
+Epoch: 14  Training Step: 614399
+Training Set: Loss: 1.239  Accuracy: 0.619
+Evaluation Set (53319 chars): Loss: 1.409  Accuracy: 0.587
+
+ERS
+  CAESAR. What art thou to the world?
+  MARCIUS. What is the man that hath been so strange to the world?
+  SECOND CITIUS. I will not see the such a strange of the streety
+    of the word that hath been the company.
+  CORIN. What should I do the comfort?
+  SILIUS. I will not be a man that hath the such a man
+    That which they see the strange of the courtesy  
+    That the dear soul of his considering hands
+    The stream of the strength of his hour to me.
+                                                                Exit
+
+
+
+
+SCENE III.
+A street
+
+Enter AND PAROLLES and CLOWN
+
+  CAMILLO. I will not see the state of the soul of the state.
+  THIRD SENATRANCE. I will not see the world to the company.
+    I will not see thee there.
+                                                             Exeunt
+
+
+
+
+SCENE III.
+Another part of the field
+
+A many ARmINAUS And ANTIPHOLUS OF SYRACUSE. I have sent the son of the
+    compass.
+  CHIRON. I will not see the mandin of the strike of the strength
+    of the strange of the streets that have been the womb of the
+    challenge of the world.
+  SICINIUS. The man shall be the since of the court.
+  SICIES. The state of the strange stranger of the 
+
+Epoch: 14  Training Step: 655359
+Training Set: Loss: 1.186  Accuracy: 0.629
+Evaluation Set (53319 chars): Loss: 1.464  Accuracy: 0.582
+
+ I will see
+    the son of the world to seek the senators of the contents of the
+    country of the store of the strength of the son of the world that
+    the common state of the world the world were so much as they are
+    to be so many a man to be a man as the country that he hath seen
+    the son of the state of the sense of the street that they are
+    to th' common country.
+  MARCIUS. What is the matter of the contrivent of the gods?
+  COMINIUS. I will not see the world to be the worst
+    To th' forest of the strencher of the sea,
+    The strong of them and the contempt of the store
+    That the world want of the considered souls,
+    And they have seen the world that hath behold'd
+    The strange of the commission of the store
+    To the contemptation of the state,  
+    That the strength of the store of the stands and the
+    The such and the court of the strange of the counterfeit
+    That the world hath a son to th' world.
+                                                             Exeunt
+
+
+
+
+SCENE III.
+A rook of the Capitol. The court of the field
+
+Enter CRESSIDA and ANTIPHOLUS OF SYRACUSE
+
+  CORIOLANUS. The more that shall be so for the commonies that the
+    the world
+
+Epoch: 14  Training Step: 696319
+Training Set: Loss: 1.133  Accuracy: 0.648
+Evaluation Set (53319 chars): Loss: 1.498  Accuracy: 0.579
+
+om, and the streets
+
+                                Re-enter CERIOLA
+
+                                      Enter CORIOLANUS
+
+                                   Enter Coriol
+
+                                   Enter COMINIUS
+
+                              Enter CORIOLANUS
+
+                                   Enter a CIMID
+SCIUS and CORIOLANUS.
+
+  CORIOLANUS. What shall I see the sea of them?
+  CORIOLANUS. What should I be the poor of the content of the sense
+    that they shall see the                                      Exit
+
+                                 Enter CORINLAN
+                                                                Exeunt
+
+
+
+
+SCENE II.
+The present of the point
+
+Enter CORIOLANUS and CRINLUS
+
+    The sun the world is so that the world shall
+    The state of the proud truth of the world
+    That the considence of the state of them
+    That have been thence to be a proportion
+    That we have stand to the senation of the world
+    That we are sure that the consulling time
+    That should be so much as the common thoughts
+    That the which they shall stand upon the proud
+    Than the consent of them.
+  MENENIUS. What has the sun to be
+    That with the strendth o
+
+Epoch: 14  Training Step: 737279
+Training Set: Loss: 1.122  Accuracy: 0.650
+Evaluation Set (53319 chars): Loss: 1.492  Accuracy: 0.580
+
+ext the parts of the strong
+    That he was so many things as the presently
+    When they shall be the prisoner of the state,
+    And therefore should be strong a tremble of them
+    That he was stronger than the sensely sea,
+    And the contrary of the strong of the world
+    That would not see the proper thing of this
+    That the profession of the contrary state
+    That has been the soul of the world to see
+    The state of the street and the strentth of the court.
+    What shall I say the present hand of the seas?
+    The senators of the soldiers shall
+    The seas of the consul the contrary store
+    That have been stouch'd to the command of the country
+    Than the consents of him.
+  FIRST SERVANT. What is the matter?
+  MENENIUS. What is the matter?
+    The state of the world will be to be the man
+    Than the seat of the strength of the condition
+    That hath a strange and streanted sense of song
+    That he was strange and things and the present man
+    That they will see the word of the consul
+    That hath an and the seas and the subject  
+    That he hath standed them and the content of the court
+    That have been the country of the country's
+    And the some offer of
+
+Epoch: 14  Training Step: 778239
+Training Set: Loss: 1.144  Accuracy: 0.643
+Evaluation Set (53319 chars): Loss: 1.486  Accuracy: 0.575
+
+ESI. The gods and the man have seen the court of the court,
+    And therefore he had been. I will not stand and be
+    That the great stream of the country hath so many
+    That the world hath so seen to have been there
+    That the content of this dispetition
+    That hath a man to see the counters of the state
+    That we have so between the comfort of his  
+    That have been the soul of the courtesy
+    To the commanding of the state.
+  COMIOLAN. The gods have seen the state of the present thing
+    That we have seen the strange of this infection
+    And the world shall be so fair as the state
+    That he hath strike the state. The princely streets
+    The stranger of the state of the commonwealth
+    That the streege of the world is the proud man.
+    The son of the confession of the field
+    Will be the world and the prisoner of the country
+    And the condition of the streets to think
+    The song of the consuls of the world's seas,
+    And the proceeding of the court of this shall
+    As we have seen the court of this and she
+    That he had seen the sense of th' and the streets
+    That he hath strong and hang'd to th' state of things
+    That the consiled service of the 
+
+Epoch: 14  Training Step: 819199
+Training Set: Loss: 1.171  Accuracy: 0.634
+Evaluation Set (53319 chars): Loss: 1.491  Accuracy: 0.575
+
+TisMANThAnDenTES and CIRIo
+
+  CLOTEN. I will not see the strange of the court of his honour.
+    I will not see the married of the state
+    That the state of the strength of the secret strength
+    That the world's state and the son of the state
+    Which the good state are so that show'd the sea
+    That he shall be the strange of his about
+    The stranger than the stranger that the streets
+    I should be servic'd to the countery of the court,
+    That the contrary of the season shall
+    The strange of them at this and the sound sorrow
+    That hath a man to the court of the state
+    That the construct of the strong state of thee,
+    And the confession of the state of this
+    That the consurts of the state of this
+    I have a stranger to the streets of this
+    That the strange strange of this and the constant
+    That hath an armed things and the struck states
+    That he had stranger than the sin of the boys
+    That the substance of this he hath a stranger
+    That the strange stranger of the strange of things
+    That shall be so deserv'd to see his son
+    That he is so much to the court.
+  IMOGEN. I will not see him to the world.
+  MESSENGER. I will not see you thank
+
+Epoch: 14  Training Step: 860159
+Training Set: Loss: 1.194  Accuracy: 0.628
+Evaluation Set (53319 chars): Loss: 1.502  Accuracy: 0.572
+
+ENoN]
+                                                            Exeunt
+
+
+
+
+SCENE III.
+A rook in the Caps
+
+Enter CORIOLANUS, ADRIPS, and CLOTENS
+
+  CLOTEN. I am not so much to be the strange of the manner of the strange
+    so many thousand that hath sent to him. I will not see him as  
+    the common country of the sea and the streets of the streets
+    of the true man. I will not see the princess of the court.
+  CLOTEN. I will not seem the streether to the manner.
+    I will not see the marder of the world
+    That they are so arming to hear the sense
+    That have been there to see the world. I will not see
+    The stranger of the strength of the strange state,
+    And the man should be so much that hath seen
+    The string of the conscience of the stranger of him
+    That he will be the court of the service.
+    The prison of the strange of the consent
+    That the strange strake of her and the contents
+    That the confession of the state of them
+    Is so being took the street of the corporal
+    That he that will be strange and strives and strange
+    That the consider of the strength of them
+    The sea of the such shoulders of the world
+    That which the strange of the c
+
+Epoch: 14  Training Step: 901119
+Training Set: Loss: 1.193  Accuracy: 0.632
+Evaluation Set (53319 chars): Loss: 1.486  Accuracy: 0.572
+
+UEEN I stands
+    offended the composition of the country of the court
+    The stream of the consuleth of the streets
+    That the strength of the stranger of the sea,
+    The strange of the contempts of the conference
+    Of the sun that the seas of the more things
+    The strength of the consolation of the strange
+    And sense of the court of the contents of thee.
+    The sun the strength of the streets of the strange of thee,
+    And the street should be so before the strengher,
+    And the solemmities of the seas, and there
+    The strength of the strange strength of the consign
+    That the desire of the great and streat doth
+    The streeting of the strength of the state of the street,
+    The sea of the strength of the court of thee,
+    And the son of the streets of the strength of thee
+    The season of the streets of the consent
+    That hath been the contraction of the streets
+    That with the street of the succession of the strength
+    That have been to the sense of the stand to the compass
+    That have begun to thee. I have sent the stranger
+    To th' sour of the strong story. I am not so much
+    To see the streets of the sons of the storm,
+    And the controll o
+
+Epoch: 14  Training Step: 942079
+Training Set: Loss: 1.224  Accuracy: 0.623
+Evaluation Set (53319 chars): Loss: 1.453  Accuracy: 0.571
+
+SiinEsS   Sou                                        Exeunt
+
+
+
+
+SCENE IV.
+Alacon. The QUeEN'S palace
+
+Enter CORIOLANUS and AGRIMPAOR
+
+  CLOTEN. What say you to the country?
+  CYMBELINE. What say you to the made?
+  CYMBELINE. I will not see thee to the court.
+  CYMBELINE. What should I see the man of this that should be a soldier
+    to the contract of the company. I would the world had not so far
+    the strength of this service. The gods the sea of the companter,
+    that with the son of the strentine of the world, and the tribute
+    of the world the servant of the company.
+  IACHIMO. What is this strange that thou art so sure to have still
+    the string of the shore of the conscience of the state.
+  CYMBELINE. I have seen thee that the strength of the controne of the
+    strange of the state of the state of the stars of the world
+    of the stranger than the state of the strength. I am not to be so
+    the man that the more so man which they are a street. I will not
+    be so so much that he was a man to her and the son of the constant
+    shame of the state of the servant that the gods are so the prince
+    of the service. I will see the son that the more the mother of
+    the
+
+Epoch: 14  Training Step: 983039
+Training Set: Loss: 1.204  Accuracy: 0.632
+Evaluation Set (53319 chars): Loss: 1.443  Accuracy: 0.568
+
+here another to the common sons, and the commonits
+
+                                Enter Percius.
+
+  Ham. Hark! she will not be so such as the gods as you would not so
+    so strange to the world. He was a good man that we shall be so far
+    to see the stranger of the state of the soldiers of the streets.
+                                                            Exit.
+
+
+
+
+Scene IV.
+A present of the court in the Captain.
+A part of the Capitol.
+
+Enter Coriolanus and Attendants. Antony.
+
+    Here is the court of the man of the seas of the state.
+                                                               Exit
+
+
+
+
+Scene III.
+A strentes of the house
+
+Enter Clarence and a sons of COUNTESS and CARIILA
+
+  Ham. How now, my lord!
+  Ham. I will not stay to thee.
+  Ham. I will not see thee then.
+  Ham. The man is the man of the sense of the states
+    That the solemn things of the common state
+    The state of the man of the stranger that the world
+    Shall stand to the contempt. The state of thee,
+    The sea of this and shortly stand on thee,
+    The stranger of the sun of this and soul,
+    And the which the so many as the state
+    Hath show'd the strange of this more strange of th
+
+Epoch: 14  Training Step: 1023999
+Training Set: Loss: 1.219  Accuracy: 0.629
+Evaluation Set (53319 chars): Loss: 1.442  Accuracy: 0.575
+
+aside]
+                                                                  Exit
+  Pol. What say you? How now, madam!
+    The common sense of the strength of the state
+    Is as a stranger of the contrance of the state
+    That have a season of the statute of them,
+    And the all things that the son of the soul
+    That with the shoulder of the streeth of this
+    That they are strange to the company of this
+    And the senseless of the state of the strength
+    That the so stands of the soul of the start
+    That the strong state of the contention of the sea
+    That the son of the state of the sea of his
+    That we the strange of the companion of my
+    Are the dear state of the soul of the stars of the state
+    of the strange of the story of the seasons of the court of the  
+    consent of the serpent of the season of the song of the court of
+    the seas of the story of the state of the state of the court,
+    and the strange soul of the constant of the state of the state
+    of the state of the state of the court of the marriage of the
+    thing of the state of the strange of the sorrow of the sea of  
+    the people of the world. I will not see the present and sound of
+    th
+
+Epoch: 14  Training Step: 1064959
+Training Set: Loss: 1.191  Accuracy: 0.633
+Evaluation Set (53319 chars): Loss: 1.474  Accuracy: 0.570
+
+
+                                                          Exit.
+
+
+
+
+Scene III.
+The palace of Prithe play.
+
+Enter a soldier of the courtesy.
+
+  Ham. I will not see the proud of my son and the stop.
+  Ham. The son of the state of the man is still,
+    And the desire of this and the son of the state
+    That the prosper and some so the store
+    That was the strong of this and soul so much
+    That the streams of the streets of the common course
+    Of the seldom of the strength of the streets,
+    And the deserves of the story of the stratageth of the state
+                                                                 Exit.
+  Ham. The sea of the sound of the part of the provide of the seas
+    the state of the state of the state of the state of the seas.
+                                                                Exit]
+
+                                 Enter Police.
+
+                                Enter Polonius.
+
+    How now, my lord?
+  Ham. I will not see you to the court.
+  Ham. The world is so much to the many of the state.
+  Ham. The story of the stature of the court of the state of the
+    street of the courtesy of the  lament of the sense of the state
+    of the commo
+
+Epoch: 14  Training Step: 1105919
+Training Set: Loss: 1.189  Accuracy: 0.635
+Evaluation Set (53319 chars): Loss: 1.455  Accuracy: 0.569
+
+ing, and the
+    the streets of the sentence the courage of the company of the
+    common part of the country of the streets of the world. They are
+    the fair end of the world in the country of the country of the court
+    of the world, and the death of the seas and the seasons of the  
+    courtesy of the state of the state of the strength of the sense
+    of the strange of the court of the sense of the seal of the state
+    of the second sin of the country of the strength of the common priest
+    of the season of the seas of the state of the sense of the street
+    of the state of the strong of the world in the store of the son
+    of the soul of the show of the stones of the street of the search
+    of the state of the sea of the song of the court. The gods are the
+    constant of the wit of the season of the season of the world, and
+    the season of the conscience of the strange courtee of the state
+    of the state of the service of the state of the court of the common
+    man and the stopman of the courteer of the court of the state
+    of the sea of the content of the constant of the stars of the
+    man of the search and sound of the courteen of the company of the
+    po
+
+Epoch: 14  Training Step: 1146879
+Training Set: Loss: 1.220  Accuracy: 0.628
+Evaluation Set (53319 chars): Loss: 1.445  Accuracy: 0.572
+
+
+                                                                    Exit
+  King. I will not be a strength of the command
+    That the dear son of the man is a stone,
+    And there is the sea of the state of the court,
+    And there the senate and a strange of thee
+    That the proceeding of the seas and thee
+    That the state of the sea of this compart
+    That the state of the sea of the soldier the start
+    That the dear man of the world should be said so.
+    The gracious lord of the fair ladies shall
+    The sea of the son of the company  
+    That the dead state of the soul of the state
+    Of the state of the state of the season,
+    And the sun to the seas are the stars of the son of the sons,
+    and the state of the state of the soul of the state, and the state
+    of the state of the state of the street of the princes of the
+    thousand that I have seen the counters of the service of the content
+    of the service of the seals of the sense of the world in the company
+    of the son of the soldier. The contract of the season and the  
+    shame of the state of the war of the state of the season of the
+    answer of the commandment of the sea, and the seas and the son
+ 
+
+Epoch: 14  Training Step: 1187839
+Training Set: Loss: 1.243  Accuracy: 0.623
+Evaluation Set (53319 chars): Loss: 1.471  Accuracy: 0.565
+
+ the Queen of the King, and the King and the King of
+    the single and an offer of the court of the constant of the state
+    and the strength of the state of the streets of the princely son
+    of the things that I have sent to the part of the strange offers
+    of the stroke of the stater of the court of the sea-comfort to
+    the state of the provers of the state of the state of the court,
+    and the complaint is not to be so strange as a strength of the things
+    of the son of the stroke of the state of the state of the state
+    of the state of the state of the stoll of the stranger of the war
+    of the streets of the stranger of the state of the shadow of the
+    courtesy of the sea, and the point of the state of the court, and
+    the stranger of the stars of the state of the contempt of the standard
+    of the hand of the courtesy of the sense of the sea of the court
+    and the company of the stanners of the sea, and the most constant
+    of the conscience of the state of the part of the state of the
+    strength of the sorrow of the strange of the conscience of the
+    constraction of the soul of the stars that the state is the man a
+    soul of the strength of the st
+
+Epoch: 14  Training Step: 1228799
+Training Set: Loss: 1.287  Accuracy: 0.610
+Evaluation Set (53319 chars): Loss: 1.491  Accuracy: 0.565
+
+ and Princess.
+                                                              Exit.
+
+
+
+
+ScEle III.
+Emstrous Senator.
+Arver. The Castlet of the Castlet.
+
+  Prince. I have no more than the son of the common court
+    Which is the court of this content of state,
+    And the astempt of the state of this thing  
+    And the deventer of the state of thine,
+    And therefore shall I see the sea of souls
+    To think of them the state of the consist
+    That the contention of the court of thine
+    Which I have seen the shore of this the state
+    Of the devil of this the courtesy.
+    I have too sound to think the court of this,
+    And then the state is then and such a state
+    As the delengage of the stars of this
+    And the desire of the state of the sharrew stands
+    To be a seal of the and so the sea of this
+    And the destroct of the street of the start of the states of
+    the stronger than the state of the command of the sea-stand of a
+    court as the thing and the sense of the courtesy of the court,
+    and the state of the storm of the seas of the state of the story
+    company of the court of the state of the courtesy of the King,
+    and the consider of the strentth of the
+
+Epoch: 14  Training Step: 1269759
+Training Set: Loss: 1.253  Accuracy: 0.623
+Evaluation Set (53319 chars): Loss: 1.481  Accuracy: 0.564
+
+.. aeea.' we the other sense of the
+    courtesy. There is no more than the third of the court of the
+    company of the King.
+  Hot. I will not see thee any more than the constant of the countery
+    of the streets of the court of the streets of the state, and then
+    the courtesy of the world is a state of the season. The state of
+    the state of the soldiers of the soul of the seas of the court
+    of the sea of the court of the common state of the states.
+    I will not be a starter of the world.
+    I am a man to the King to the King.
+    The King is not a son of the state of the sea-passion.
+    The strength of the King hath a true are strange,
+    And the sin that he was a strange that seem
+    To see the state of the strength of the King.
+    I will not see the truth of the more strange.
+    The starpent of the senation of the starp
+    Is the man and the state of the state of them.
+    The time is now to see the string of this.
+    The sea is serv'd to the companion of me.
+    The state is the offence of the state of this.
+    The street is so and the commonic state
+    That the King shall not see the court of Sorrow
+    That we are not a man as the man and the state
+   
+
+Epoch: 14  Training Step: 1310719
+Training Set: Loss: 1.296  Accuracy: 0.622
+Evaluation Set (53319 chars): Loss: 1.523  Accuracy: 0.557
+
+ and Princess
+
+                            Enter PRIAM
+
+  PISTOL. I am a man to be so fair as the soul
+    That hath a service to the state of his                                                         Exit.
+  FALSTAFF. I have seen the true speed of the strange of the state,
+    and the courtery of the state of the King hath sounded the sound
+    and the state of the strick of the strength of the sea of the  
+    army of the conscieting of the bear of the counterfection of the
+    starting of the strange offers of the seasons. I would not the
+    mother was a soul of the stars of the state of the wind of the
+    threeton that the seal of the state of the street of the sea,
+    and the conscience of the state of the state of the state of the
+    courteous son of the throad of the King of the King.
+  PROTCUS. The streed of the strange shadow of the strength of the
+    state of the commons of the state of the seals of the window of
+    the soldiers. The King is a song of the soldiership of the state
+    of the soul of the King. What a man is the prince of the strength
+    of the sour owe of the counterfeit of the state of the state
+    and the sea-standing the counterfeit of the star
+
+Epoch: 14  Training Step: 1351679
+Training Set: Loss: 1.291  Accuracy: 0.618
+Evaluation Set (53319 chars): Loss: 1.531  Accuracy: 0.556
+
+ ' Il Than and a man and the world.
+                                                                Exit
+  POINS. I will not stand a strange than the soul and the strange of
+    the state of the state of the King hath not so much to be a servant.
+    The King hath seen thee to the thing of this.
+                                                               Exit
+  FALSTAFF. What says the matter? What is the man in the King?
+  PAGE. What say you to the King?
+  POiNS. I will not so many a state of the proof of the stranger of
+    the strength of a statue of the song of the soul of the state.
+                                                                  Exit.
+
+                                                                        Exeunt
+
+
+
+
+SCENE II.
+A hour the sea of the Prince.
+
+Enter the PRINCE and PRINCE OF SERVANT
+
+  POINS. What is the matter? I will not see the strift of the state
+    and the strenkent of the strength of the state of the states of
+    the season.
+  PRINCE. What is the matter?
+  FALSTAFF. What would you see? I am sorry that we have seen the
+    shall be a stranger. I am a prince to the world.
+  PRINCE. And then I will not see the state of the King.
+         
+
+Epoch: 14  Training Step: 1392639
+Training Set: Loss: 1.240  Accuracy: 0.629
+Evaluation Set (53319 chars): Loss: 1.540  Accuracy: 0.556
+
+ they arm
+                                                              Exeunt
+
+
+
+
+SCENE II.
+A pars of the fair and the Captain
+
+Enter the POINS and SECHED SECOND SERVART and PRINCE OF FLARRUS
+
+                                                             Exeunt
+
+
+
+
+S
+
+                                                               Exeunt
+
+
+
+
+SCENE II.
+A catake and the King entertain to the Countess of the Captain and  
+    Pronounce of the commendation of the King.
+    The King hath stood to the King of the country,
+    And then the world is not a statering tone,
+    And then the stranger shall be so dear to thee.
+                                                              Exit
+
+
+
+
+SCENE III.
+
+London. The sea, and the King comes and the Prince of Sicilius and
+    the King and the Prince of Warow and the Prince Sir Johk  hS                                                 Exeunt
+
+
+
+
+SCENE II.
+
+Enter the KING and PRINCE OFFELY
+
+    What say you to the King?
+  FALSTAFF. What is the matter?  
+  FALSTAFF. What is the matter?
+  SHYLOCK. What says the King?
+  FALSTAFF. What is the King?
+  SECOND SERVANT. What say you then to the princes of the princess?
+    The King is the thing to be a s
+
+Epoch: 14  Training Step: 1433599
+Training Set: Loss: 1.249  Accuracy: 0.631
+Evaluation Set (53319 chars): Loss: 1.580  Accuracy: 0.554
+
+in                                          Exit
+  BARDOLPH. I will not see your wife and see the court.
+                                                        Exit  
+                                                             Exit
+
+
+
+
+SCENE III.
+Before the Prince Shame the Kind
+
+Enter POLTCEE AND PRINCE JOK W dI 
+ W                                                    Exit
+
+                                              Extent
+
+                                    Enter CHARLESIA
+
+    The King is a dear son, and the devils are the world to be an ass.
+    I will not see the arm of the streets of them.
+    The state is something so much as the street
+    Will take him to the soul of the conscience
+    That the man are a man and the best stranges
+    That have a strain of the sea of the streets.
+    I have some sun to the present state  
+    That the world shall be shall as shall with thee
+    The soul of such a stranger that thou dost
+    That the dear son of Cornic is a sweet son.
+    The strange sort of the world is to be so.
+    The man is the man and the soul of such an art,
+    And the command of the strincting offence
+    That with the state of this and the content
+    That will
+
+Epoch: 14  Training Step: 1474559
+Training Set: Loss: 1.330  Accuracy: 0.611
+Evaluation Set (53319 chars): Loss: 1.515  Accuracy: 0.556
+
+A
+                                             Exeunt AGAILENR
+    What is the King?
+  FALSTAFF. What says the King?
+  FALSTAFF. What i could have the world the soul of the King?
+    The King hath sent the standing of the court
+    That the King of Soldiers shall be seal'd
+    The state of the King of Hotsturbors.
+    The King is singly to the King and the coust,
+    And then the sea of the King is a great contempt.
+    The King is so four and the state of the streets
+    That the third shall be the sea of the strangely
+    That the wire should be strange and sound of thee,
+    And then be so the son of the senators.
+    The state of the King hath better the man,
+    And the respect of the man that with him
+    That the commands have seen the sun the state
+    That they are short and shall and the King  
+    And the King Hardy the King of the King of Warwick is a good of your
+    soul that the King is too many.
+  FIRST HOLFFORD. The King he will be thine of thee.
+  FALSTAFF. I will be so the star of the court of the sea of the court.
+    I will not then the profit of the world
+    The stars of the conceived tough did stay
+    The strength of the strue words of the strange state
+   
+
+Epoch: 14  Training Step: 1515519
+Training Set: Loss: 1.314  Accuracy: 0.607
+Evaluation Set (53319 chars): Loss: 1.543  Accuracy: 0.555
+
+ardesri)                      Exit
+                                                               Exeunt.
+
+
+
+
+Scene II.
+A sea come to the wars.
+  BARDoLPH. The King hath the world with the King of Falstaff,
+    That the dear command is a statering soul,
+    And the reselver of the world shall stand
+    The state of the princest of the senation.
+    The King hath so fair and so the man in the King of the King,
+    that the princes of the world is the soldiers of the world in
+    the stranger of the King, and the King Hath a man that the service
+    the streets of the world was the weak one of the wine. I will be to
+    the strange that we will to the world to the way.
+  FALSTAFF. I will not see the son of the streets of the world.
+    What is the man and the soldiness of the sea of the King?
+    The King is the thing of the sun of the seas of the soul of the
+    states and the sons of the world and the princess of the soul
+    and the sight of the sea of the souls of the court of the state
+    of the courts, and the stales of the statele of the world that the
+    continution of the state is the sun of the court of the King, and
+    the King the throats of the world and the counterfe
+
+Epoch: 14  Training Step: 1556479
+Training Set: Loss: 1.326  Accuracy: 0.600
+Evaluation Set (53319 chars): Loss: 1.579  Accuracy: 0.550
+
+ar weight the
+    common cousin and the KInG of Washion Sent the King of Westmon
+                                                          Exeunt
+
+
+
+
+SCENE II.
+Before the Captain
+
+Enter the KING and CHILLS are all the KING of CLEOPATAR
+
+                                                                     Exit
+
+
+
+
+
+
+
+
+ACT I. SCENE I.
+Brief . a part of the Castl
+
+enter SERVANT
+
+  KING HENRY. I will not there an ears and shall then be so fair and
+    strange the princess and the store of the soul of the King and
+    the King of England and A street than the King hath a son to the
+    common present of the prince of the King of France and the King
+    that will be so to the King and the King of England and the King
+                                                                   Exeunt
+
+
+
+
+SCENE II.
+Which contention of the Castlet
+
+Enter the KING HENRY and the KING comples the King of Some
+
+                         Enter FLORLY
+
+                              Enter FLARIEN
+
+                                                                 Exeunt
+
+
+
+
+SCENE II.
+Before the Court in the Count
+
+Enter the KING and LARYINES OF FLAREn, CONSTANCE HE POLIGER, and CHIRONDO
+                       
+
+Epoch: 14  Training Step: 1597439
+Training Set: Loss: 1.285  Accuracy: 0.620
+Evaluation Set (53319 chars): Loss: 1.600  Accuracy: 0.546
+
+  ef in his son in the  art, and
+    I will not the season of the state of the King.
+    The sun and the ward speak of the King's son,
+    The strange and the proceeding of the strength,
+    The first shall be a soldier to the wind,
+    And the offender is to see the stranger
+    Of the soul of the King of France and thence.
+    The King is so much of the street of the King,
+    And the sun the service of the court and the cousin  
+    That hath a word and so much any man  
+    That have a sun to see the state of thee.
+  KING HENRY. I will not see the sorrow of the King.
+    The King hath so my father shown the way
+    That will be so approace to the King  
+    Of the tongues of the seal and many states,
+    The seas and the princest that the souls of heaven
+    That they are the world and the prophesien better.
+    The King of Warwick is a man in thee
+    That the prophet of the King hath been in them.
+    The King hath seen the world and the King here
+    That the King of Someria is a grace.
+    The King hath seen the courtesy of the wind
+    That they are some object of the stand.
+    I will not see the state of them and the soul  
+    Whereof the sun and the King hath seen the 
+
+Epoch: 14  Training Step: 1638399
+Training Set: Loss: 1.342  Accuracy: 0.604
+Evaluation Set (53319 chars): Loss: 1.559  Accuracy: 0.552
+
+d r's dhe knows that they are and
+    the King.
+  FIRST LORD. I will not stay to the King's son to the King,
+    and the King the King comes a face of the King.
+  FALSTAFF. What is the noble man that I will not see the sea of the
+    courtes and the King of the King in the King of France and the
+    command to the King of England.
+  FLEELENES. I will not see the streets of the King.
+    The world is the King hath not a sunder tongues.
+    The King is not a strange tonger too much that we shall be the
+    strength of the seas and the sharp of the wars of the country.
+    The sea is the through the strange the courtesy.
+    I will not stand to the King of France.
+    The form of the King of the King hath send to the King,
+    And the King's son of the King of Wales
+    Did see the countenance of the world and the court.
+    The King is the man and the world of men.
+    Who is the friend?
+  FLUELLEN. The King is not the streets of the King the KiNg comes to
+    the King here and the King and the King of England
+                                                                Exit
+  KING HENRY. I will not see the sea and the secret soul
+    That they shall see the fire of the contrary
+ 
+
+Epoch: 14  Training Step: 1679359
+Training Set: Loss: 1.230  Accuracy: 0.628
+Evaluation Set (53319 chars): Loss: 1.574  Accuracy: 0.553
+
+                                                                      Exit
+  KING HENRY. I will not be the sount of this content.
+    The sould is the more thands to the march.
+    The King is not to the common start.
+    The King is the more than the King's soulds of thine.
+    The course of France is the conspirator,
+    And the contract of the King his state.
+                                                                Exit
+                                                                     Expent
+                                                                Exeunt
+
+
+
+
+SCENE III.
+The field of FLORENCENAN
+
+                                SCENE I.
+
+                            ENtER OFFIGER
+
+                              Enter SIR TOR THEMEN
+
+  BASTIRN. The King is not the Duke of France and the King,
+    And therefore the servile shall be something.
+    There is no more than the King of France and the King.
+    The world is not a man that they are sound,
+    And the design of the deservent the wed
+    That they are sure and the will so a strange.
+    The true and sharp or shall be so many hands,
+    And therefore the King hath no man the world.
+    The man is the more strang
+
+Epoch: 14  Training Step: 1720319
+Training Set: Loss: 1.187  Accuracy: 0.642
+Evaluation Set (53319 chars): Loss: 1.569  Accuracy: 0.555
+
+o                                                Exit
+                                                               Exit
+                                                       Exit
+
+
+
+
+
+
+
+
+ACT IV. SCENE 1.
+The King of France
+
+Enter the KING and the KING and SIr Johk                                                          Exeunt
+
+
+
+
+                              SCENE 2.
+
+                                                                  Exit
+
+
+
+
+SCeNE III.
+The friend
+
+Enter the KING and Soldiers and the Prince of the King
+
+                                                                     Exit
+    The King hath seen the sea of the world so fair.
+    The marries then the street of the King hath sent
+    The season of the sea of this protesting  
+    That we shall see the sound of the world will be so much
+    That the second courtiers of the way in thee.
+                                                                Exit
+
+                                                  Enter SERVANT
+
+                                         Exit
+                                                                    Exit
+  PLANTAR. The King is so to see the faith of them.
+    There is the wind of 
+
+Epoch: 14  Training Step: 1761279
+Training Set: Loss: 1.246  Accuracy: 0.633
+Evaluation Set (53319 chars): Loss: 1.584  Accuracy: 0.547
+
+r to the King,
+    And therefore she that shall be standing to thee.
+    The King is not the sea of the stronger son,
+    And the preservation of the sea the sea
+    That they are so that stands to be a street
+    That they are not a son of England's son,
+    And there in this the soul of the command,
+    The prince of the complexion of the fire.
+    The strange and souldest shall be seen to think,
+    And then the world is soon as the King's son.
+    The King is so for the best soul to be.
+    I will not see thee all the seas and soul.
+    The true present shall be so the soul of love,
+    And therefore the King hath been the sound so sure,
+    And then the sea of thee are such a day,
+    And therefore the King and the King hath sent you.
+    The seas of my preservence is not so.
+    I would not soon the country is an argument.
+    The King of York were the first of the seas,
+    And the reasons of the sealing of the sea.
+    The false and true of this the strength of this,
+    The streets are so deliver'd at the sea,
+    And the King hath a success of the sea,
+    And the King's soul the court of France in thee.
+    The prince of Sortophery is not so.
+    The fair contention of t
+
+Epoch: 14  Training Step: 1802239
+Training Set: Loss: 1.258  Accuracy: 0.631
+Evaluation Set (53319 chars): Loss: 1.608  Accuracy: 0.539
+
+Akth Fen  
+    hath so presented the King of the King of Your and the King,
+    And then the King hath strong and solding theme.
+    What is the man that they are so that sail?
+    The strange of the proper thanks and theed
+    I will not be a strait of thine eyes.
+    The sen that will be so the country the proved.
+    The King is the march and the devil of the King,
+    And then the man the countenance of his hand
+    The state of the confinmating state.
+    The prince and the and the proper sond
+    Is all the provers of the brother's son.
+    And then the King hath been to make the world.
+    The King of the master is a particular of the counters.
+    I will not then the King and the King  
+    Is not the seal.
+    And that the sum that was the country  
+    That waste the state of the command in the world.
+    The King hath sent the sun to the King.
+    I will not be a sun and the King to thee.
+    What shall I the world be the proud of man?
+    The streets are the man of the better than the King.
+    The soldier that the world is not a son.
+    What shall I be the King?
+    I will not see the sea of the courtesy.
+    And that the world is all the strange offences,
+    And the
+
+Epoch: 14  Training Step: 1843199
+Training Set: Loss: 1.266  Accuracy: 0.620
+Evaluation Set (53319 chars): Loss: 1.669  Accuracy: 0.531
+
+  t,
+h the so? Shed the Kidgh of Same and
+                                                              Exit
+
+                                                       Exeunt
+
+
+
+
+SCENE III.
+A room Stale. The DUKE OF SUFFOLK
+
+ EnTEr TATONIS and SIR JOHURo 
+  .,.  F                               Exeunt  
+                                                              Exeunt
+
+
+
+
+
+
+
+
+ACT III. SCENE I.
+
+                                                                Exit
+  KING HENRY. What is the matter? I will not see thee so many aspect
+    and the King and the King.
+  KING HENRY. And there is the King the conquest of the court.
+    What is the matter that hath seen the fire?
+    The King hath made the commonity
+    To the sen of the proof of the consents.
+    The sea of the soldiers are a strange too,
+    And the provotion of the counterfeigner.
+    The sea of the courtesy the strong shall be
+    That the respect of the counterfeit stail
+    And the man and the counter of the star,
+    And then the son of the which the proffemple dooms
+    A man of strong and thine owe force to the court.
+    And the devil of this thought shall be so much.
+    And then the seas are sorrow to the sea of th
+
+Epoch: 14  Training Step: 1884159
+Training Set: Loss: 1.337  Accuracy: 0.608
+Evaluation Set (53319 chars): Loss: 1.633  Accuracy: 0.531
+
+ Sea of enTarries
+    the King and the King of the King hath some seat of the sold
+    that they are and a strain to stand to the sea, and the King is
+    the state of the court of soldiers.
+  SIMPELUS. Ay, and the speed of the sun that they are a state,
+    And the considure of the sea of the sould shall be
+    That the proporte of the strong offender shake
+    The strange and the prouf are the thing of the King.
+    The King is so to stay the sea of the King.
+    And the consent is the King and the King's sword.
+    The King is so to this that there is nothing.
+    The King is the court of the common princes.
+    The strange man was the suit of the state of stands.
+    And therefore will I have the sea of the contramb
+    That the dead shall be the proud of the strong star
+    That the King is a strength of the strong strength.
+    The state is stood to seem the contention stand.
+    The stander of the summer shall be thought,
+    And the success is better than the state of thee.
+    The King is bound to see the sun that thereful state.
+    The shallot shall be the sun to the King of God.
+    The sun and the shame shall be the man hath and so fair.
+                               
+
+Epoch: 14  Training Step: 1925119
+Training Set: Loss: 1.409  Accuracy: 0.598
+Evaluation Set (53319 chars): Loss: 1.714  Accuracy: 0.518
+
+e ir. Fo tun , and the
+    commonity and a soldier the stater off and the King and the King,
+    And that will be the soldine to the strife
+    That the devil of the shame and the sumble should be.
+    The state is broken to the King of France,
+    And the sender that the seas of the King seems thee.
+    And therefore be dead in the fair and sorthied tongue.
+    And the King is the world to see the state
+    That they are to the King of this the soul.
+    The King can bear the strength of the King, and the King,
+    The King of Suffolk and the King will see thee.
+    The King hath been the state of the King's son,
+    And the devils of the sum on the state,
+    And the true soul that they are true and so may be so shall be  
+    than the stars of the seas the King and the contented all is the
+    sorrow of the King of England's true sword, and the King hath son
+    the King of the soul of the throut of the stand of the King  
+    Is the King Henry to the King of Yorf.
+    The King is straightos are to be the stay,
+    And the supplured seemed breath of the count
+    The search of the sour proper thouseness and the strain
+    That with a streature that I should be soft.
+    The King
+
+Epoch: 14  Training Step: 1966079
+Training Set: Loss: 1.333  Accuracy: 0.607
+Evaluation Set (53319 chars): Loss: 1.729  Accuracy: 0.520
+
+.e  hE SUL mY  
+                                                                                  Exeunt
+
+
+
+
+S. NA. The King of Youke, and the King he instants
+                                                                        Exit
+                                                                          Exit
+
+
+
+
+SCENE II.
+The King's house before the court he offends the court
+
+Enter CLEM M A  R                                                                           Exit
+                                                                          Exeunt
+
+
+
+
+SCENE I.
+
+                                                        Exeunt
+
+                              Enter FlATCD
+
+                                     ER ENGRANM STADDAED WE ThA CAIR  
+    And the King of France is the soul of Yord,
+    And the three state and the man in the sound
+    The sour of the contention of the field.
+    The King doth stand the sea of the court of thine.
+    The King is the princest off to seek the King.
+    The King hath solendly the common sould  
+    And the seas that will be a sould and the commony.
+    And then the King is strong and strange towing,
+    And the dead of the company the King  
+
+Epoch: 14  Training Step: 2007039
+Training Set: Loss: 1.345  Accuracy: 0.606
+Evaluation Set (53319 chars): Loss: 1.700  Accuracy: 0.525
+
+trainE  
+ u                                                            Exeunt
+
+                             Enter a MESSENGER
+
+                           Enter the DUKE OF GLOUCESSER    
+
+  KING EDWADE. A man the state that shall be the strongly soulder.
+    The wither of the common true the seals
+    Are the standing of the country that the stands
+    And the sea of the strange the state the streets
+    And the strange sons of the straight out of this star.
+    And therefore the sea and the common tordies
+    Is the sure then to stay the staten the sunder.
+    And then the King hath wink the son of the sound  
+    That the King here are the subject of the state,
+    And they are so to the second the content.
+    And the contented thinking with the sould
+    The stone the strength of thing the strife of his
+    That shall be strong and the subject of the subject.
+    The common trait is the state of France,
+    And the content of the state of the side of thee.
+    The King hath seen the sound of this the King.
+    What would the watce shall be a thought of thee,
+    And the sure strain thas the streemy thought the strength;
+    And the destroy is the father of the face,
+    And the
+
+Epoch: 14  Training Step: 2047999
+Training Set: Loss: 1.326  Accuracy: 0.616
+Evaluation Set (53319 chars): Loss: 1.683  Accuracy: 0.526
+
+  At tru and     
+                                                           Exeunt
+
+ 
+                                Enter WARDIEK
+   AT I a                                                        Exit
+  KING. What then the stater is therefore?
+  KING EDWARD. What says the King here?
+  KING EDWARD. And the King he shall be the command to the King.
+    What shall the command be the standon that the King hath strong the
+    state to the King of Yorks and the King here in the state.
+    What say you shall be then to the King?
+    The King will speak with him with the King to thee.
+    The King of York will not be stand to the King.
+    The state was shall be so to see the common thought
+    That the contention that the stand is there.
+    What shall we see the King the King of Yonk?
+                                                                  Exete
+                                                     Exeunt
+
+
+
+
+SCENE III.
+A hol of the seals the sword of the King he came to the castlet.
+    What shall we see the world to see the King?
+    And then the state is the witch that shall be stay'd.
+    The strange thing that then I shall be an end.
+    The King hath a man to the King of
+
+Epoch: 14  Training Step: 2088959
+Training Set: Loss: 1.383  Accuracy: 0.602
+Evaluation Set (53319 chars): Loss: 1.659  Accuracy: 0.532
+
+at   w Romefi tha  a soul of the day.
+                                                               Exit
+
+
+
+
+SCENE III.
+A cause the court
+
+Enter KARHARR, and the KING HENRY
+                                                                         Exit
+
+                         Enter and the EARL'                                                      Exeunt
+
+
+
+
+SCENE V.
+A part to the King of York
+
+Enter the KING EDWARD, WARWyR
+E                                                                       Exeunt
+
+
+
+
+SCENE IV.
+Else the Falstaff.
+
+Enter the KING and the KING an other to the King and the KING EDWARD    
+                                                                         Exit
+
+
+
+
+SCENE III.
+An old man. An off and strength
+
+benWe the street
+
+                           Enter a sound
+
+                             Enter the KING OFFICERERS
+
+                          Enter WARWARKS
+
+                               Enter GLOUCKSTENTR  
+
+                            Enter GLOUCESTER, and the KING ENOBERC  
+                                                                         Exit
+  KING EDWARD. Then swear my lords are stay'd to the streets.
+                                       
+
+Epoch: 14  Training Step: 2129919
+Training Set: Loss: 1.367  Accuracy: 0.588
+Evaluation Set (53319 chars): Loss: 1.664  Accuracy: 0.527
+
+  h                       EUCLOMBaECO                                              Exit SO PER  
+                                                                               Exeunt
+
+
+
+
+SCENE VII.
+A house is a respectious
+
+Enter that SENARDARDE and WILLIAM a thoushess have been the King's and
+                                                                       Exeunt
+
+
+
+
+SCENE V.
+A blood can enter the King
+
+
+                                 SCENE X.
+
+                                                                Exit
+  KING. And then I will not see thee the sun of his love.
+    The King is strange, the King of England shall be shown
+    To the King's courtesy. I have seen the King
+    And see the seas of this a state are standed
+    That was a solding standing to the King.
+    The King hath sounded the King and the King.
+                                                               Exit
+
+                           Enter a MESSENGER
+
+                         Encer and the KING'S part
+
+    The King is not to the King. The King is not so far as the man.
+                                                             Exeunt
+
+
+
+
+SCENE IV.
+
+                                             
+
+Epoch: 14  Training Step: 2170879
+Training Set: Loss: 1.312  Accuracy: 0.601
+Evaluation Set (53319 chars): Loss: 1.691  Accuracy: 0.525
+
+io thine is a man, and the King
+                                                                   Exit
+  KING. What should I to the King?
+    What say you then?
+  KING HENRY. Is the King seen the King a state of the King?
+    The King is straight to see the King's songht
+    To the King and the King and the King.
+    The King's a man, and the King and the King is so much.
+    The King hath seen the King to the King.
+                                                          Exit
+
+                               Enter KING  
+    The King is the King's son of the King.
+  SURREY. I will not see the King.
+    The King is so to be the strange off and the King
+    And the King and the King and the King of the King
+
+                           Enter COUGSS
+   WIDG ArE. The King hath soverence thee a state out of the King,
+    And the King of the King is stood.
+    The King's to be a stater of the King  
+    To have the King to strike the King and the King.
+    I think the King is not a son to see thee.
+    I have too much to be so fortune to the King.
+    The King comes to the King, and the proud sight
+    That will be seen to see the seath of star
+    That the King hath a proceeding to the
+
+Epoch: 14  Training Step: 2211839
+Training Set: Loss: 1.334  Accuracy: 0.601
+Evaluation Set (53319 chars): Loss: 1.703  Accuracy: 0.523
+
+'telra                                                               Exit
+  KING. What should I hear?
+    I will not see the King the King his son
+    That he shall see the world the many a ser
+    That have the strangled and and the King a thoughts
+    Of the soul the King is to be so to have
+    The state of the King the King and the King.
+    The King is something and a straighthiclothe
+    That have a those the King and the command
+    The state of the King hath a such a seeding,
+    And there are there in the sun that hath a servented
+    The King and the King's son that he hath stand'd
+    The strange of things and the stretche of the state
+    Will be the song of the King's presence.
+    The King of York and the King Hamlet's son
+    The King hath all the strong and strange the priest.
+    The King hath seen the marrias to the King.
+    The King hath some and the King's and the King
+    That hath a statc'd of the conscietors
+    To see the common time and shall be seen.
+    I would he was not that the King of many
+    Which the King's hands are so much and the King,
+    And the command that was the strength of heavens,
+    And the King's soul of the King hath son the King.

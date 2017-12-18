@@ -1,0 +1,21 @@
+[MESSAGES CONTROL]
+disable = locally-disabled,fixme,too-few-public-methods
+
+[BASIC]
+good-names = g,i,j,k,x,_,parser
+const-rgx = (([A-Z_][A-Z0-9_]*)|(__.*__)|(log))$
+bad-functions = filter,apply
+
+[FORMAT]
+max-line-length = 79
+max-module-lines = 3000
+
+[DESIGN]
+max-statements = 24
+
+[REPORTS]
+reports = no
+
+[MASTER]
+load-plugins = pylint.extensions.docparams
+extension-pkg-whitelist = numpy, tensorflow
