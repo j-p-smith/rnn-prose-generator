@@ -80,7 +80,7 @@ it's own 'twaddle-speak' output!
 1. See the `params.py` file for adjusting the opearting parameters of the RNN,
 if you wish to experiment.
 
-Directory `sample_output` houses an example of terminal text output after
-around 13 epochs / 80 million training steps after approximately 1.5 days 
-training on a 4-core i5 CPU and GTX 1080 Ti GPU, although readable improvements
-after a few of hours of training become marginal.
+File `/sample-output/terminal-output.txt` shows an example of terminal text 
+output after around 13 epochs / 80 million training steps after approximately
+1.5 days training on a 4-core i5 CPU and GTX 1080 Ti GPU, although readable
+improvements after a few of hours of training become marginal.
