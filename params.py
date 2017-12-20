@@ -11,15 +11,15 @@ SUMMARIES_DIR = '/tmp/tensorboard/rnn-text'
 # Factor that is evaluation set vs training set (0 - 1)
 EVAL_SPLIT = 0.01
 # Learning rate
-LEARNING_RATE = 0.001 ###0.001
+LEARNING_RATE = 0.001
 # Number of hidden units in RNN cell
-N_HIDDEN = 512 ###512
+N_HIDDEN = 512
 # Number of character inputs to RNN
-N_INPUT = 70 ###100
+N_INPUT = 70
 # Number of epochs to train on, each being one iteration of the text.
 EPOCHS = 30
 # Batch size
-BATCH_SIZE = 128 ### 128
+BATCH_SIZE = 128
 # Step frequency to show example text output; MUST be multiple of batch size
 TRAINING_DISPLAY_STEP = 40960
 # Test example text output length

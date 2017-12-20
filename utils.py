@@ -127,7 +127,7 @@ def create_training_io(text_one_hots, index, batch, chars_size):
 
     """
     input_x = np.zeros((batch, params.N_INPUT * chars_size), dtype='float32')
-    output_y = np.zeros((batch, 1 * chars_size), dtype='float32')
+    output_y = np.zeros((batch, chars_size), dtype='float32')
 
     for item in range(0, batch):
 
